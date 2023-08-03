@@ -40,6 +40,23 @@ Models for 15 classes are stored in "15_Classes" folder, models for 44 classes a
 
   * click [here](https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-44c/code) to access previous studies
 
+<details>
+  <summary> <h3> Example / Model 39 </h3> </summary>
+
+  <div align="center">
+    <img src="./results/Confusion_Matrix_39.png" alt="Örnek Resim">
+    <img src="./results/Res2_Model_39.png" alt="Örnek Resim">
+  </div>
+</details>
+
+<details>
+  <summary> <h3> Example / Ensemble Learning </h3> </summary>
+
+  <div align="center">
+    <img src="./results/Confusion_Matrix_ensemble_learning.png" alt="Örnek Resim">
+  </div>
+</details>
+
 <h3> Developers </h3>
   
 🧩 [Deniz Karhan](https://github.com/denizkarhan) 
