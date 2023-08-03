@@ -37,3 +37,8 @@ Models for 15 classes are stored in "15_Classes" folder, models for 44 classes a
 <div align="center">
   <img src="./data/tumors.png" alt="Örnek Resim">
 </div>
+
+<h3> Developers </h3>
+  
+🧩 [Deniz Karhan](https://github.com/denizkarhan) 
+🗝️ [İbrahim İnce](https://github.com/ibrahim-ince)
