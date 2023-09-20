@@ -59,5 +59,6 @@ Models for 15 classes are stored in "15_Classes" folder, models for 44 classes a
 
 <h3> Developers </h3>
   
+🗝️ [İbrahim İnce](https://github.com/ibrahim-ince/BrainTumorClassification)
 🧩 [Deniz Karhan](https://github.com/denizkarhan) 
-🗝️ [İbrahim İnce](https://github.com/ibrahim-ince)
+
